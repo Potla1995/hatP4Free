@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the original paper as below."
+authors:
+  - family-names: Mukherjee
+    given-names: Sayan
+    orcid: https://orcid.org/0000-0001-8838-0455
+title: "Exact generalized Tur\'an number for $K_3$ versus suspension of $P_4$"
+date-released: 2023-06-27
+url: "https://github.com/Potla1995/hatP4Free"
