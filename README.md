@@ -5,7 +5,8 @@ Here $P_4$ is the path on 4 vertices and $\hat P_4$ the suspension defined as in
 For the blog post that refers to this repository, check my [webpage](https://sayan.mukherjee.moe/publication/suspensionFree).
 We show that for $n=5,6,7,8$ the values of $\text{ex}(n, K_3,\hat P_4)$ equal $4,5,8,8$ respectively.
 
-I am currently in the process of writing up this result in a short preprint, which will be linked once complete.
+This result was used to prove that $\text{ex}(n, K_3, \hat P_4) = \lfloor n^2/8\rfloor$ for $n\ge 8$.
+It is the main result of [this preprint](https://arxiv.org/abs/2307.04369).
 
 ## Code Structure
 - `triangle_count_parallel.py` is the file which enumerates all $\hat{P}_4$-free graphs on `num_vertex` number of vertices and `num_triangles` number of triangles. 
